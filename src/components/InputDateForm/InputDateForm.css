@@ -1,0 +1,18 @@
+.input-date-form{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 460px;
+    margin: 0 auto;
+}
+.btn {
+    background-color: hsl(0, 0%, 100%);
+    border-color: hsl(0, 0%, 80%);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    min-height: 38px;
+    cursor: pointer;
+    margin-top: 10px;
+}
